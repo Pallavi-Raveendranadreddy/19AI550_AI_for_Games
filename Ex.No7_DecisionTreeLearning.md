@@ -3,11 +3,17 @@
 ## REGISTER NUMBER :212221240059
 # AIM:
 Design a decision tree for following data. 
+
 1 Healthy, In Cover, With Ammo -> Attack
+
 2.Hurt, In Cover, With Ammo -> Attack
+
 3.Healthy, In Cover, Empty -> Defend
+
 4.Hurt, In Cover, Empty -> Defend
+
 5.Hurt, Exposed, With Ammo -> Defend
+
 # Algorithm:
 1. Start the program
 2. import the necessary packages 
